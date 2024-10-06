@@ -6,7 +6,13 @@
 * My birthday is February 3rd 
 * I like to swim 
 
+## Careers
+* I work at Apple 
+* I interned at Verizon 
+* I interned at JPMorgan Chase 
+
 ## Favorite Foods 
 * I love Thai food 
 * Indian food is amazing 
 * I am also a pasta lover 
+
